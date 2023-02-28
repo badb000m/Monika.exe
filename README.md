@@ -1,12 +1,13 @@
 # Monika.exe
 
-Monika.exe is a worm based upon Monika and her characteristics from the game Doki Doki Literature Club (DDLC for short).
+Coded's original idea. All credits go to him. This is my own code.
 
-# Features as of last update - 03/11/22
+# Features as of last update - 28/02/2023
 
 ```
-Change backround,
-Grab system information.
+ * Replaces image files
+ * Overwrites text file data with simple message
+ * Sends IP to attacker using Discord Webhook
 ```
 
-This is for research purposes into how far worms can go with modern day security (don't cancel me please!).
+I don't give a shit if you cancel me (real)
